@@ -29,4 +29,4 @@ n/a
 This application is covered under the MIT license.
 
 ## Questions
-You can find the link to my veio here: 
+You can find the link to my video here: https://drive.google.com/file/d/1MPFPvFYEqKbX-GluHHAyhdyl2wuHKqwM/view?usp=sharing
